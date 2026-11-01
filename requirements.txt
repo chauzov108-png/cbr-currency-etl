@@ -1,0 +1,7 @@
+requests
+pandas
+streamlit
+psycopg
+pendulum
+SQLAlchemy
+python-dotenv
