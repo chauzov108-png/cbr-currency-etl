@@ -1,3 +1,18 @@
+# Secrets
 .env
+.streamlit/secrets.toml
+
+# Python
 .venv/
 __pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local Airflow infrastructure
+airflow_home/
+*.db
+*.log
+
+# macOS / editors
+.DS_Store
+.idea/
